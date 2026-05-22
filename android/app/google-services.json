@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74874185058",
+    "project_id": "km-tracker-d7724",
+    "storage_bucket": "km-tracker-d7724.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74874185058:android:81800b20029fde8c6bf83b",
+        "android_client_info": {
+          "package_name": "com.example.km_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74874185058-uek9cr0dpll2iko4fln0lviv956qokcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.km_tracker",
+            "certificate_hash": "444c24717a19e27f109164fe35f21f30216ea75c"
+          }
+        },
+        {
+          "client_id": "74874185058-tpl4q9rho0tnc2f9h39g4mdec86u5j8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGfOckFSPLOfMK8lKdAa4bKcp7Ivqevw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74874185058-tpl4q9rho0tnc2f9h39g4mdec86u5j8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
